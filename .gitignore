@@ -1,0 +1,32 @@
+*.class
+*.jar
+*.MF
+# Package Files #
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*.class
+nbactions.xml
+
+target
+#temp
+*.csv
+.idea
+*.iml
+*.log
+*.temp.db
+*.temp.db-shm
+*.temp.db-wal
+*.csv
+*.xlsx
+*.temp
+*.mgf
+*.pep.xml
+*.mzXML
+src/main/resources/log.txt
+catProt.txt
+catProtReduced.txt
+*.TD.fasta
